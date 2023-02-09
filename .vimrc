@@ -22,6 +22,6 @@ set colorcolumn=80
 nnoremap <C-j> }
 nnoremap <C-k> {
 
-nnoremap <F4> :NerdTreeToggle<CR>
+nnoremap <F4> :NERDTreeToggle<CR>
 let NERDTreeShowHidden=1
 let NERDTreeQuitOnOpen=1
